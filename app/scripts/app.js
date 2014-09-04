@@ -2,8 +2,7 @@
 
 angular.module('aimWebsiteApp', [
   'ngCookies',
-  'ngResource',
-  'ngSanitize',
+  'ngResource',  
   'ngRoute'
 ])
   .config(function ($routeProvider) {
