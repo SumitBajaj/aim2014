@@ -908,7 +908,7 @@ a#speaker4.thumbnail
 }
 a#speaker6.thumbnail
 {
-  background-image: url('../images/Sanjana_Kapoor.png');
+  background-image: url('../images/sanjana_kapoor.png');
   background-repeat: no-repeat;
   background-size: 100%;
   border-bottom: 10px solid #327EB8;
@@ -927,6 +927,7 @@ padding-left: 4%;
 img.image
 {
   height:200px;
+  width:300px;
 }
 img.bigImage
 {
