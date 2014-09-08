@@ -894,21 +894,21 @@ a#speaker5.thumbnail
 
 a#speaker2.thumbnail
 {
-  background-image: url('../images/syed_kirmani.jpg');
+  background-image: url('../images/syed_kirmani.png');
   text-decoration: none;
   background-repeat: no-repeat;
   background-size: 100%;
 }
 a#speaker4.thumbnail
 {
-  background-image: url('../images/usha_albuquerque.jpg');
+  background-image: url('../images/usha_albuquerque.png');
   background-repeat: no-repeat;
   background-size: 100%;
   border-bottom: 10px solid #E28100;
 }
 a#speaker6.thumbnail
 {
-  background-image: url('../images/Sanjana_Kapoor.jpg');
+  background-image: url('../images/Sanjana_Kapoor.png');
   background-repeat: no-repeat;
   background-size: 100%;
   border-bottom: 10px solid #327EB8;
