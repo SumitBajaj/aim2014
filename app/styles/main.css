@@ -986,6 +986,7 @@ div.colPadding
 .bars
 {
   border-radius: 0px !important;
+  height: 350px;
 }
 .barsOne
 {
